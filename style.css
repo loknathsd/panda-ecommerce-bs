@@ -1,0 +1,12 @@
+.image img{
+    height: 100px;
+    width: 100px;
+}
+.background-color .carousel-item{
+    background-color:#fceae8;
+    
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
